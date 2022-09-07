@@ -1,0 +1,1 @@
+Este va a ser un paquete que intenta facilitar la simulación de experimentos aleatorios e intenta aproximar las probabilidades con la frecuencia absoluta "tendiendola a infinito"
